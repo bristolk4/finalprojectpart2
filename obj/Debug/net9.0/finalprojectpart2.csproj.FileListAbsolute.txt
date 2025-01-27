@@ -1,0 +1,14 @@
+/Users/kaylabristol/code/ga/projects/finalprojectpart2/bin/Debug/net9.0/finalprojectpart2
+/Users/kaylabristol/code/ga/projects/finalprojectpart2/bin/Debug/net9.0/finalprojectpart2.deps.json
+/Users/kaylabristol/code/ga/projects/finalprojectpart2/bin/Debug/net9.0/finalprojectpart2.runtimeconfig.json
+/Users/kaylabristol/code/ga/projects/finalprojectpart2/bin/Debug/net9.0/finalprojectpart2.dll
+/Users/kaylabristol/code/ga/projects/finalprojectpart2/bin/Debug/net9.0/finalprojectpart2.pdb
+/Users/kaylabristol/code/ga/projects/finalprojectpart2/obj/Debug/net9.0/finalprojectpart2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylabristol/code/ga/projects/finalprojectpart2/obj/Debug/net9.0/finalprojectpart2.AssemblyInfoInputs.cache
+/Users/kaylabristol/code/ga/projects/finalprojectpart2/obj/Debug/net9.0/finalprojectpart2.AssemblyInfo.cs
+/Users/kaylabristol/code/ga/projects/finalprojectpart2/obj/Debug/net9.0/finalprojectpart2.csproj.CoreCompileInputs.cache
+/Users/kaylabristol/code/ga/projects/finalprojectpart2/obj/Debug/net9.0/finalprojectpart2.dll
+/Users/kaylabristol/code/ga/projects/finalprojectpart2/obj/Debug/net9.0/refint/finalprojectpart2.dll
+/Users/kaylabristol/code/ga/projects/finalprojectpart2/obj/Debug/net9.0/finalprojectpart2.pdb
+/Users/kaylabristol/code/ga/projects/finalprojectpart2/obj/Debug/net9.0/finalprojectpart2.genruntimeconfig.cache
+/Users/kaylabristol/code/ga/projects/finalprojectpart2/obj/Debug/net9.0/ref/finalprojectpart2.dll
