@@ -1,7 +1,9 @@
-﻿using System;
-class Program
+﻿class Program
 {
-    static void Main(string[] args)
+    static void Main()
+    // static: Main method (kind of like a function) belongs to Program class, not an instance of it
+    // void: Main doesn't return a value it just runs
+    // Main: name of the method that's the starting point of the app
     {
         int score = 0;
         // Initial score set to 0
@@ -28,6 +30,7 @@ class Program
             {
                 score = score + 2;
                 Console.WriteLine($"Score: {score}");
+                // $tring interpolation
             }
             else if (keyInfo.Key == ConsoleKey.RightArrow)
             // If user presses right arrow, add 5 and display score

@@ -12,3 +12,4 @@
 /Users/kaylabristol/code/ga/projects/finalprojectpart2/obj/Debug/net9.0/finalprojectpart2.pdb
 /Users/kaylabristol/code/ga/projects/finalprojectpart2/obj/Debug/net9.0/finalprojectpart2.genruntimeconfig.cache
 /Users/kaylabristol/code/ga/projects/finalprojectpart2/obj/Debug/net9.0/ref/finalprojectpart2.dll
+/Users/kaylabristol/code/ga/projects/finalprojectpart2/obj/Debug/net9.0/finalprojectpart2.sourcelink.json
